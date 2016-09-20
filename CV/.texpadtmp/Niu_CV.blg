@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/cniu/Dropbox/Github/changning.github.io/CV/.texpadtmp/Niu_CV.aux
+The style file: abbrvnat.bst
+Database file #1: .././cniu-pubs.bib
+You've used 14 entries,
+            2773 wiz_defined-function locations,
+            674 strings with 7636 characters,
+and the built_in function-call counts, 8295 in all, are:
+= -- 658
+> -- 726
+< -- 1
++ -- 243
+- -- 228
+* -- 801
+:= -- 1325
+add.period$ -- 42
+call.type$ -- 14
+change.case$ -- 117
+chr.to.int$ -- 13
+cite$ -- 28
+duplicate$ -- 317
+empty$ -- 553
+format.name$ -- 242
+if$ -- 1675
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 15
+newline$ -- 78
+num.names$ -- 56
+pop$ -- 258
+preamble$ -- 1
+purify$ -- 104
+quote$ -- 0
+skip$ -- 213
+stack$ -- 0
+substring$ -- 164
+swap$ -- 29
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 149
+warning$ -- 0
+while$ -- 52
+width$ -- 0
+write$ -- 189
