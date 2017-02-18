@@ -1,4 +1,4 @@
-\begin{thebibliography}{14}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -53,6 +53,13 @@ C.~Niu, A.~J. Zaddach, A.~A. Oni, X.~Sang, J.~W. Hurt~III, J.~M. LeBeau, C.~C.
 \newblock {First principles exploration of near-equiatomic NiFeCrCo high
   entropy alloys}.
 \newblock \emph{J. Alloy. Compd.}, 672:\penalty0 510--520, July 2016.
+
+\bibitem[{\textbf{Niu}} et~al.(2017){\textbf{Niu}}, Windl, and
+  Ghazisaeidi]{Niu:2017in}
+{\textbf{C}}.~{\textbf{Niu}}, W.~Windl, and M.~Ghazisaeidi.
+\newblock {Multi-Cell Monte Carlo Relaxation method for predicting phase
+  stability of alloys}.
+\newblock \emph{Scripta Materialia}, 132:\penalty0 9--12, Apr. 2017.
 
 \bibitem[Sang et~al.(2015)Sang, Grimley, {\textbf{Niu}}, Irving, and
   LeBeau]{Sang:2015fo}
