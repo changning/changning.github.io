@@ -1,0 +1,137 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gao et~al.(2016)Gao, {\textbf{Niu}}, Jiang, and Irving]{niu_hea}
+M.~C. Gao, {\textbf{C}}.~{\textbf{Niu}}, C.~Jiang, and D.~L. Irving.
+\newblock \emph{High-Entropy Alloys}, chapter 10. Applications of Special
+  Quasi-random Structures to High-Entropy Alloys.
+\newblock Springer, 2016.
+
+\bibitem[{\textit{Irving}} et~al.(2013){\textit{Irving}}, Koch, Niu, and
+  Zaddach]{Preparationandsimu:2013ue}
+{\textit{D}}.~{\textit{L}}. {\textit{Irving}}, C.~C. Koch, C.~Niu, and A.~J.
+  Zaddach.
+\newblock {Preparation and simulation of fcc high entropy alloys
+  (\textit{invited})}.
+\newblock In \emph{TMS}, San Antonia, TX, Mar. 2013.
+
+\bibitem[{\textit{Irving}} et~al.(2017){\textit{Irving}}, Niu, Zaddach, Oni,
+  LeBeau, and Koch]{Predictedproperties:2017ru}
+{\textit{D}}.~{\textit{L}}. {\textit{Irving}}, C.~Niu, A.~Zaddach, A.~Oni,
+  J.~LeBeau, and C.~Koch.
+\newblock {Predicted Properties of NiFeCrCo Based HEAs from First Principles
+  (\textit{invited})}.
+\newblock In \emph{TMS}, Orlando, FL, Mar. 2017.
+
+\bibitem[{\textit{Niu}} et~al.(2014){\textit{Niu}}, Zaddach, Koch, and
+  Irving]{Firstprinciplessim:2014vh}
+{\textit{C}}.~{\textit{Niu}}, A.~J. Zaddach, C.~C. Koch, and D.~L. Irving.
+\newblock {First principles simulation of a NiFeCrCoMn high entropy alloy}.
+\newblock In \emph{TMS}, San Diego, CA, Feb. 2014.
+
+\bibitem[{\textit{Niu}} et~al.(2015){\textit{Niu}}, Zaddach, Oni, Sang,
+  Hurt~III, LeBeau, Koch, and Irving]{Firstprinciplesstu:2015wd}
+{\textit{C}}.~{\textit{Niu}}, A.~J. Zaddach, A.~A. Oni, X.~Sang, J.~W.
+  Hurt~III, J.~M. LeBeau, C.~C. Koch, and D.~L. Irving.
+\newblock {First principles studies of NiFeCrCoMn high entropy alloys}.
+\newblock In \emph{TMS}, Orlando, FL, Mar. 2015.
+
+\bibitem[{\textbf{Niu}} et~al.(2015){\textbf{Niu}}, Zaddach, Oni, Sang,
+  Hurt~III, LeBeau, Koch, and Irving]{Niu:2015gp}
+{\textbf{C}}.~{\textbf{Niu}}, A.~J. Zaddach, A.~A. Oni, X.~Sang, J.~W.
+  Hurt~III, J.~M. LeBeau, C.~C. Koch, and D.~L. Irving.
+\newblock {Spin-driven ordering of Cr in the equiatomic high entropy alloy
+  NiFeCrCo}.
+\newblock \emph{Appl. Phys. Lett.}, 106\penalty0 (16):\penalty0 161906, Apr.
+  2015.
+
+\bibitem[Niu et~al.(2015)Niu, Zaddach, Oni, Sang, Hurt~III, LeBeau, Koch, and
+  {\textit{Irving}}]{Probingthelocalst:2015ud}
+C.~Niu, A.~J. Zaddach, A.~A. Oni, X.~Sang, J.~W. Hurt~III, J.~M. LeBeau, C.~C.
+  Koch, and {\textit{D}}.~{\textit{L}}. {\textit{Irving}}.
+\newblock {Probing the local structure of NiFeCrCo: synthesis,
+  characterization, and simulation (\textit{invited})}.
+\newblock In \emph{TMS}, Orlando, FL, Mar. 2015.
+
+\bibitem[{\textbf{Niu}} et~al.(2016){\textbf{Niu}}, Zaddach, Koch, and
+  Irving]{Niu:2016hz}
+{\textbf{C}}.~{\textbf{Niu}}, A.~J. Zaddach, C.~C. Koch, and D.~L. Irving.
+\newblock {First principles exploration of near-equiatomic NiFeCrCo high
+  entropy alloys}.
+\newblock \emph{J. Alloy. Compd.}, 672:\penalty0 510--520, July 2016.
+
+\bibitem[{\textit{Niu}} et~al.(2017){\textit{Niu}}, Ghazisaeidi, and
+  Windl]{Phaseprediction:2017rh}
+{\textit{C}}.~{\textit{Niu}}, M.~Ghazisaeidi, and W.~Windl.
+\newblock {Phase prediction via ab-initio Monte Carlo Simulation for High
+  Entropy Alloys}.
+\newblock In \emph{TMS}, San Diego, CA, Feb. 2017.
+
+\bibitem[{\textbf{Niu}} et~al.(2017){\textbf{Niu}}, Windl, and
+  Ghazisaeidi]{Niu:2017in}
+{\textbf{C}}.~{\textbf{Niu}}, W.~Windl, and M.~Ghazisaeidi.
+\newblock {Multi-Cell Monte Carlo Relaxation method for predicting phase
+  stability of alloys}.
+\newblock \emph{Scripta Materialia}, 132:\penalty0 9--12, Apr. 2017.
+
+\bibitem[Sang et~al.(2015)Sang, Grimley, {\textbf{Niu}}, Irving, and
+  LeBeau]{Sang:2015fo}
+X.~Sang, E.~D. Grimley, {\textbf{C}}.~{\textbf{Niu}}, D.~L. Irving, and J.~M.
+  LeBeau.
+\newblock {Direct observation of charge mediated lattice distortions in complex
+  oxide solid solutions}.
+\newblock \emph{Appl. Phys. Lett.}, 106\penalty0 (6):\penalty0 061913, Feb.
+  2015.
+
+\bibitem[Youssef et~al.(2014)Youssef, Zaddach, {\textbf{Niu}}, Irving, and
+  Koch]{Youssef:2014ey}
+K.~M. Youssef, A.~J. Zaddach, {\textbf{C}}.~{\textbf{Niu}}, D.~L. Irving, and
+  C.~C. Koch.
+\newblock {A Novel Low-Density, High-Hardness, High-entropy Alloy with
+  Close-packed Single-phase Nanocrystalline Structures}.
+\newblock \emph{Mater. Res. Lett.}, 3\penalty0 (2):\penalty0 95--99, Dec. 2014.
+
+\bibitem[Zaddach et~al.(2013)Zaddach, {\textbf{Niu}}, Koch, and
+  Irving]{Zaddach:2013ek}
+A.~J. Zaddach, {\textbf{C}}.~{\textbf{Niu}}, C.~C. Koch, and D.~L. Irving.
+\newblock {Mechanical Properties and Stacking Fault Energies of NiFeCrCoMn
+  High-Entropy Alloy}.
+\newblock \emph{JOM}, 65\penalty0 (12):\penalty0 1780--1789, 2013.
+
+\bibitem[{\textit{Zaddach}} et~al.(2014){\textit{Zaddach}}, Niu, LeBeau, Koch,
+  and Irving]{Lowstackingfaulte:2014wl}
+{\textit{A}}.~{\textit{J}}. {\textit{Zaddach}}, C.~Niu, J.~M. LeBeau, C.~C.
+  Koch, and D.~L. Irving.
+\newblock {Low stacking fault energy high entropy alloys}.
+\newblock In \emph{TMS}, San Diego, CA, Feb. 2014.
+
+\bibitem[Zaddach et~al.(2014)Zaddach, Niu, Youssef, {\textit{Irving}}, and
+  Koch]{Stackingfaultenerg:2014tm}
+A.~J. Zaddach, C.~Niu, K.~M. Youssef, {\textit{D}}.~{\textit{L}}.
+  {\textit{Irving}}, and C.~C. Koch.
+\newblock {Stacking fault energies and mechanical properties of fcc high
+  entropy alloys (\textit{invited})}.
+\newblock In \emph{TMS}, San Diego, CA, Feb. 2014.
+
+\bibitem[{\textit{Zaddach}} et~al.(2015){\textit{Zaddach}}, Youssef, Niu,
+  Irving, and Koch]{Alowdensitysingl:2015ti}
+{\textit{A}}.~{\textit{J}}. {\textit{Zaddach}}, K.~M. Youssef, C.~Niu, D.~L.
+  Irving, and C.~C. Koch.
+\newblock {A low-density, single-phase high entropy alloy produced by
+  mechanical alloying}.
+\newblock In \emph{TMS}, Orlando, FL, Mar. 2015.
+
+\bibitem[Zaddach et~al.(2016)Zaddach, {\textbf{Niu}}, Oni, Fan, LeBeau, Irving,
+  and Koch]{Zaddach:2016hn}
+A.~J. Zaddach, {\textbf{C}}.~{\textbf{Niu}}, A.~A. Oni, M.~Fan, J.~M. LeBeau,
+  D.~L. Irving, and C.~C. Koch.
+\newblock {Structure and magnetic properties of a multi-principal element
+  Ni{\textendash}Fe{\textendash}Cr{\textendash}Co{\textendash}Zn{\textendash}Mn
+  alloy}.
+\newblock \emph{Intermetallics}, 68:\penalty0 107--112, Jan. 2016.
+
+\end{thebibliography}
