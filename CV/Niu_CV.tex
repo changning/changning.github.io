@@ -14,9 +14,10 @@
 % Customize page headers
 \pagestyle{fancy}
 \fancyhf{}
-\lhead{Curriculum Vitae}
+%\lhead{Curriculum Vitae}
+\lhead{\today}
 \chead{\Large\name}
-\rhead{{\thepage} of \pageref{LastPage}}
+\rhead{Curriculum Vitae, {\thepage} of \pageref{LastPage}}
 
 % Custom section fonts
 \usepackage{sectsty}
@@ -50,7 +51,7 @@
 \begin{minipage}{0.50\linewidth}
   \begin{tabular}{ll}
     Phone: & (919) 946-0183 \\
-    Email: & changning.niu@gmail.com \\
+    Email: & niu.55@osu.edu \\
     Website: & http://cniu.me \\
   \end{tabular}
 \end{minipage}
@@ -58,7 +59,7 @@
 
 \section*{Research Interests}
 
-First-principles atomistic modeling of solid-state materials, thermodynamic properties of materials, kinetic properties of materials.
+First-principles simulation of solid-state materials, high-entropy alloys, chemical disorder, thermodynamics, diffusion, phase formation
 
 \section*{Professional Experience}
 
@@ -83,7 +84,8 @@ First-principles atomistic modeling of solid-state materials, thermodynamic prop
 
 \setlength{\extrarowheight}{10pt}
 \begin{longtable}{p{0.3in}|p{5.9in}}
-  2017 & \bibentry{Niu:2017in} \\
+  2017 & \bibentry{Miao:2017bv} \\
+    	& \bibentry{Niu:2017in} \\
   2016 & \bibentry{Niu:2016hz} \\
        & \bibentry{Zaddach:2016hn} \\
   2015 & \bibentry{Niu:2015gp} \\
@@ -127,14 +129,18 @@ First-principles atomistic modeling of solid-state materials, thermodynamic prop
 \end{longtable}
 \setlength{\extrarowheight}{0pt}
 
+\section*{Professional Membership}
+\begin{itemize}
+	\item TMS (The Minerals, Metals and Materials Society)
+\end{itemize}
 
 % Footer
-\bigskip
-\begin{center}
-  \begin{footnotesize}
-    Last updated: \today
-  \end{footnotesize}
-\end{center}
+%\bigskip
+%\begin{center}
+%  \begin{footnotesize}
+%    Last updated: \today
+%  \end{footnotesize}
+%\end{center}
 
 \nobibliography{./cniu-pubs}
 \end{document}

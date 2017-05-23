@@ -1,4 +1,4 @@
-\begin{thebibliography}{17}
+\begin{thebibliography}{18}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -26,6 +26,14 @@ M.~C. Gao, {\textbf{C}}.~{\textbf{Niu}}, C.~Jiang, and D.~L. Irving.
 \newblock {Predicted Properties of NiFeCrCo Based HEAs from First Principles
   (\textit{invited})}.
 \newblock In \emph{TMS}, San Diego, CA, Feb. 2017.
+
+\bibitem[Miao et~al.(2017)Miao, Slone, Smith, {\textbf{Niu}}, Bei, Ghazisaeidi,
+  Pharr, and Mills]{Miao:2017bv}
+J.~Miao, C.~E. Slone, T.~M. Smith, {\textbf{C}}.~{\textbf{Niu}}, H.~Bei,
+  M.~Ghazisaeidi, G.~M. Pharr, and M.~J. Mills.
+\newblock {The evolution of the deformation substructure in a Ni-Co-Cr
+  equiatomic solid solution alloy}.
+\newblock \emph{Acta. Mater.}, 132:\penalty0 35--48, June 2017.
 
 \bibitem[{\textit{Niu}} et~al.(2014){\textit{Niu}}, Zaddach, Koch, and
   Irving]{Firstprinciplessim:2014vh}
@@ -64,19 +72,19 @@ C.~Niu, A.~J. Zaddach, A.~A. Oni, X.~Sang, J.~W. Hurt~III, J.~M. LeBeau, C.~C.
   entropy alloys}.
 \newblock \emph{J. Alloy. Compd.}, 672:\penalty0 510--520, July 2016.
 
-\bibitem[{\textit{Niu}} et~al.(2017){\textit{Niu}}, Ghazisaeidi, and
-  Windl]{Phaseprediction:2017rh}
-{\textit{C}}.~{\textit{Niu}}, M.~Ghazisaeidi, and W.~Windl.
-\newblock {Phase prediction via ab-initio Monte Carlo Simulation for High
-  Entropy Alloys}.
-\newblock In \emph{TMS}, San Diego, CA, Feb. 2017.
-
 \bibitem[{\textbf{Niu}} et~al.(2017){\textbf{Niu}}, Windl, and
   Ghazisaeidi]{Niu:2017in}
 {\textbf{C}}.~{\textbf{Niu}}, W.~Windl, and M.~Ghazisaeidi.
 \newblock {Multi-Cell Monte Carlo Relaxation method for predicting phase
   stability of alloys}.
-\newblock \emph{Scripta Materialia}, 132:\penalty0 9--12, Apr. 2017.
+\newblock \emph{Scripta Mater.}, 132:\penalty0 9--12, Apr. 2017.
+
+\bibitem[{\textit{Niu}} et~al.(2017){\textit{Niu}}, Windl, and
+  Ghazisaeidi]{Phaseprediction:2017rh}
+{\textit{C}}.~{\textit{Niu}}, W.~Windl, and M.~Ghazisaeidi.
+\newblock {Phase prediction via ab-initio Monte Carlo Simulation for High
+  Entropy Alloys}.
+\newblock In \emph{TMS}, San Diego, CA, Feb. 2017.
 
 \bibitem[Sang et~al.(2015)Sang, Grimley, {\textbf{Niu}}, Irving, and
   LeBeau]{Sang:2015fo}
