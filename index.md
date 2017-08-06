@@ -4,7 +4,7 @@ layout: home
 
 > I am currently considering new career opportunities.
 
-| ![OSU](/img/OSU.png){:height="70px"} | ![NCSU](/img/NCSU.png){:height="60px"} | ![USTB](/img/USTB.png){:height="110px"} |
+| ![OSU](/img/OSU.png) | ![NCSU](/img/NCSU.png) | ![USTB](/img/USTB.png) |
 |:---:|:---:|:---:|
 | 2015--Present | 2011--2015 | 2006--2011 |
 
