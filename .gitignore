@@ -1,0 +1,6 @@
+_site/*
+.DS_Store
+./CV/.cniu-pubs.bib.swp
+./CV/.texpadtmp/*
+./CV/.DS_Store
+Gemfile
