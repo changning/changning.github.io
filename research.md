@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 My research has focused on computational studies of materials on the atomic level, including:
