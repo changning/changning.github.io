@@ -1,4 +1,5 @@
 _site/*
+.sass-cache/*
 .DS_Store
 ./CV/.cniu-pubs.bib.swp
 ./CV/.texpadtmp/*
