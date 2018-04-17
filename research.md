@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-My research has focused on computational studies of materials on the atomic level, including:
+During my PhD and post-doc experience, my research has focused on computational studies of materials on the atomic level, including:
 - energetics/phase stability of disordered and partially disordered alloys/oxides
 - phonon vibrations in crystalline materials
 - density functional theory (DFT) simulation of magnetic materials (ferromagnetic, antiferromagnetic, paramagnetic, nonmagnetic)
@@ -18,6 +18,8 @@ My research has focused on computational studies of materials on the atomic leve
 ### Journals articles
 > PDF versions of these papers are available upon request to paper@cniu.me
 
+0. *C. Niu*, C. R. LaRosa, J. Miao, M. J. Mills, and M. Ghazisaeidi. **Magnetically-driven phase transformation strengthening in high entropy alloys.** *Nature Communications*, 9 (1): 1363 (2018)
+0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **STEM characterization of the deformation substructure of a Ni-Co-Cr equiatomic solid solution alloy.** *Microscopy and Microanalysis*, 23 (S1): 752--753 (2017)
 0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **The evolution of the deformation substructure in a Ni-Co-Cr equiatomic solid solution alloy.** *Acta Materialia*, 132: 35--48 (2017)
 0. *C. Niu*, W. Windl, and M. Ghazisaeidi. **Multi-Cell Monte Carlo Relaxation method for predicting phase stability of alloys.** *Scripta Materialia*, 132: 9--12 (2017)
 0. *C. Niu*, A. J. Zaddach, C. C. Koch, and D. L. Irving. **First principles exploration of near-equiatomic NiFeCrCo high entropy alloys.** *Journal of Alloys and Compounds*, 672: 510--520 (2016)
