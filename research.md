@@ -22,7 +22,6 @@ During my PhD and post-doc experience, my research has focused on computational 
 
 0. *C. Niu*, C. R. LaRosa, J. Miao, M. J. Mills, and M. Ghazisaeidi. **Magnetically-driven phase transformation strengthening in high entropy alloys.** *Nature Communications*, 9 (1): 1363 (2018)
 0. M. S. Hooshmand, *C. Niu*, D. R. Trinkle, M. Ghazisaeidi. **First-principles prediction of oxygen diffusivity near the (101-2) twin boundary in titanium.** *Acta Materialia*, 156: 11--19 (2018)
-0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **STEM characterization of the deformation substructure of a Ni-Co-Cr equiatomic solid solution alloy.** *Microscopy and Microanalysis*, 23 (S1): 752--753 (2017)
 0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **The evolution of the deformation substructure in a Ni-Co-Cr equiatomic solid solution alloy.** *Acta Materialia*, 132: 35--48 (2017)
 0. *C. Niu*, W. Windl, and M. Ghazisaeidi. **Multi-Cell Monte Carlo Relaxation method for predicting phase stability of alloys.** *Scripta Materialia*, 132: 9--12 (2017)
 0. *C. Niu*, A. J. Zaddach, C. C. Koch, and D. L. Irving. **First principles exploration of near-equiatomic NiFeCrCo high entropy alloys.** *Journal of Alloys and Compounds*, 672: 510--520 (2016)
@@ -45,3 +44,4 @@ During my PhD and post-doc experience, my research has focused on computational 
 0. **Phase prediction via ab-initio Monte Carlo simulation for high-entropy alloys.** *C. Niu*, W. Windl, and M. Ghazisaeidi. TMS, San Diego, CA (2017)
 0. **First principles study of NiFeCrCoMn high entropy alloys.** *C. Niu*, A. J. Zaddach, A. A. Oni, X. Sang, J. W. Hurt III, J. M. LeBeau, C. C. Koch, and D. L. Irving. TMS, Orlando, FL (2015)
 0. **First principles simulation of a NiFeCrCoMn high-entropy alloy.** *C. Niu*, A. J. Zaddach, C. C. Koch, and D. L. Irving. TMS, San Diego, CA (2014)
+{: reversed="reversed"}
