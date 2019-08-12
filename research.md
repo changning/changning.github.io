@@ -4,6 +4,8 @@ title: Research
 permalink: /research
 ---
 
+As a *Materials Design Engineer* at QuesTek, I get involved in multiple projects on materials design.
+
 During my PhD and post-doc experience, my research has focused on computational studies of materials on the atomic level, including:
 - energetics/phase stability of disordered and partially disordered alloys/oxides
 - phonon vibrations in crystalline materials
@@ -19,6 +21,7 @@ During my PhD and post-doc experience, my research has focused on computational 
 > PDF versions of these papers are available upon request to paper@cniu.me
 
 0. *C. Niu*, C. R. LaRosa, J. Miao, M. J. Mills, and M. Ghazisaeidi. **Magnetically-driven phase transformation strengthening in high entropy alloys.** *Nature Communications*, 9 (1): 1363 (2018)
+0. M. S. Hooshmand, *C. Niu*, D. R. Trinkle, M. Ghazisaeidi. **First-principles prediction of oxygen diffusivity near the (101-2) twin boundary in titanium.** *Acta Materialia*, 156: 11--19 (2018)
 0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **STEM characterization of the deformation substructure of a Ni-Co-Cr equiatomic solid solution alloy.** *Microscopy and Microanalysis*, 23 (S1): 752--753 (2017)
 0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **The evolution of the deformation substructure in a Ni-Co-Cr equiatomic solid solution alloy.** *Acta Materialia*, 132: 35--48 (2017)
 0. *C. Niu*, W. Windl, and M. Ghazisaeidi. **Multi-Cell Monte Carlo Relaxation method for predicting phase stability of alloys.** *Scripta Materialia*, 132: 9--12 (2017)
@@ -35,6 +38,10 @@ During my PhD and post-doc experience, my research has focused on computational 
 {: reversed="reversed"}
 
 ### Presentations
+0. **(Invited) A Framework and Infrastructure for Uncertainty Quantification and Management in Materials Design.** *C. Niu*. Artificial Intelligence for Materials Science (AIMS) Workshop, NIST, Gaithersburg, MD (Aug 2019)
+0. **CALPHAD in the Cloud -- Webware and Framework for Uncertainty Quantification.** *C. Niu*, A. Saboo, R. Frey, M. Li, J. Gong. ICME 2019, Indianapolis, IN (Jul 2019)
+0. **Materials Genome Tools to Predict Ca-Mg-Al-Si (CMAS) Interactions on Thermal Barrier Coatings (TBC) and Enable Advanced CMAS-Resistant TBC Design.** *C. Niu*, D. Poerschke, W. Zhang, C. Levi, D. Frankel. ICME 2019, Indianapolis, IN (Jul 2019)
+0. **Models of Long-Term Creep Behavior of High Performance Structural Alloys.** *C. Niu*, A. Saboo, Q. Zhang, J. Gong, J. Zhao, D. Dunand, G. B. Olson. TMS, San Antonio, TX (Mar 2019)
 0. **Phase prediction via ab-initio Monte Carlo simulation for high-entropy alloys.** *C. Niu*, W. Windl, and M. Ghazisaeidi. TMS, San Diego, CA (2017)
 0. **First principles study of NiFeCrCoMn high entropy alloys.** *C. Niu*, A. J. Zaddach, A. A. Oni, X. Sang, J. W. Hurt III, J. M. LeBeau, C. C. Koch, and D. L. Irving. TMS, Orlando, FL (2015)
 0. **First principles simulation of a NiFeCrCoMn high-entropy alloy.** *C. Niu*, A. J. Zaddach, C. C. Koch, and D. L. Irving. TMS, San Diego, CA (2014)
