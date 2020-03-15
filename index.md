@@ -13,8 +13,8 @@ Hello! Welcome to my personal website. My name is Changning Niu (pronunciation c
 # Appointments
 
  2018--Present | [QuesTek Innovations LLC](https://www.questek.com), Evanston, IL
- | **Senior Materials Design Engineer** (Since Oct 2019)
- | **Materials Design Engineer**
+ | **Senior Materials Design Engineer** (2019--Present)
+ | **Materials Design Engineer** (2018--2019)
  2015--2018 | Ohio State University, Columbus, OH 
  | **Post Doctoral Researcher**, Advisor: [Maryam Ghazisaeidi](https://mse.osu.edu/people/ghazisaeidi.1)
 
