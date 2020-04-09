@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-As a *Senior Materials Design Engineer* at QuesTek, I lead and/or contribute to multiple government-funded (Department of Energy, Department of Defense, etc.) and industrail projects on materials design related topics.
+As a Senior Materials Design Engineer at QuesTek, I lead and contribute to multiple SBIR/STTR projects funded by US government agencies, including Department of Energy, Department of Defense, etc. I also work on projects for industrial clients. These projects cover a wide range of materials design related topics.
 
 During my PhD and post-doc experience, my research has focused on computational studies of materials on the atomic level, including:
 - energetics/phase stability of disordered and partially disordered alloys/oxides
@@ -19,6 +19,7 @@ During my PhD and post-doc experience, my research has focused on computational 
 
 ### Journals articles
 
+0. *C. Niu*, Y. Rao, W. Windl, and M. Ghazisaeidi. **Multi-cell Monte Carlo method for phase prediction.** *npj Computational Materials*, 5 (1): 1--5 (2019)
 0. *C. Niu*, C. R. LaRosa, J. Miao, M. J. Mills, and M. Ghazisaeidi. **Magnetically-driven phase transformation strengthening in high entropy alloys.** *Nature Communications*, 9 (1): 1363 (2018)
 0. M. S. Hooshmand, *C. Niu*, D. R. Trinkle, M. Ghazisaeidi. **First-principles prediction of oxygen diffusivity near the (101-2) twin boundary in titanium.** *Acta Materialia*, 156: 11--19 (2018)
 0. J. Miao, C. E. Slone, T. M. Smith, *C. Niu*, H. Bei, M. Ghazisaeidi, G. M. Pharr, and M. J. Mills. **The evolution of the deformation substructure in a Ni-Co-Cr equiatomic solid solution alloy.** *Acta Materialia*, 132: 35--48 (2017)
@@ -36,6 +37,7 @@ During my PhD and post-doc experience, my research has focused on computational 
 {: reversed="reversed"}
 
 ### Presentations
+0. **Materials Genome and Integrated Computational Materials Toolkit (MaGICMaT) and Its Application for Thermoelectric Materials Design.** *C. Niu*, R. Gurunathan, A. Saboo, J. Gong. TMS, San Diego, CA (Feb 2020)
 0. **(Invited) When ICME Meets Materials Informatics and Artificial Intelligence: Opportunities and Challenges.** *C. Niu*. Seminar Talk, Civil and Materials Engineering, University of Illinois at Chicago (Oct 2019)
 0. **CALPHAD in the Cloud: Uncertainty Quantification and Propagation in ICME.** *C. Niu*, A. Saboo, R. Frey, J. Gong, G. B. Olson. MS&T 2019, Portland, OR (Oct 2019)
 0. **(Invited) A Framework and Infrastructure for Uncertainty Quantification and Management in Materials Design.** *C. Niu*. Artificial Intelligence for Materials Science (AIMS) Workshop, NIST, Gaithersburg, MD (Aug 2019)
