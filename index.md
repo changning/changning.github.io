@@ -20,7 +20,7 @@ Hello! My name is Changning Niu ([pronunciation](https://translate.google.com/#v
 
 # Education
 
- 2011--2015 | **Ph.D.**, North Carolina State University, Raleigh, NC, USA
+ 2011--2015 | **Ph.D.**, North Carolina State University (NCSU), Raleigh, NC, USA
  | *Materials Science and Engineering*, Advisor: [Douglas Irving](http://www.mse.ncsu.edu/profile/dlirving)
- 2006--2011 | **B.Sc.**, University of Science and Technology Beijing, Beijing, China
+ 2006--2011 | **B.Sc.**, University of Science and Technology Beijing (USTB), Beijing, China
  | *Materials Physics*, minor in *Information and Computational Science*
