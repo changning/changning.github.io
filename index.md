@@ -8,7 +8,7 @@ layout: home
 | 2018--Present | 2015--2018 | 2011--2015 | 2006--2011 |
 
 # Bio
-Hello! Welcome to my personal website. My name is Changning Niu (pronunciation close to Channing Neo). I am a Materials Design Engineer at [QuesTek Innovations LLC](https://www.questek.com/), which is located at Evanston, Illinois. You can also find me on [LinkedIn](https://www.linkedin.com/in/changning).
+Hello! My name is Changning Niu ([pronunciation](https://translate.google.com/#view=home&op=translate&sl=en&tl=zh-CN&text=Chang-ning%20Niu)). I am a Senior Materials Design Engineer at [QuesTek Innovations LLC](https://www.questek.com/), a small business focused on computational materials design in Evanston, IL. You can also find me on [LinkedIn](https://www.linkedin.com/in/changning).
 
 # Appointments
 
