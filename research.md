@@ -19,6 +19,7 @@ During my PhD and post-doc experience, my research has focused on computational 
 
 ### Journals articles
 
+0. G. J. Snyder, A. H. Snyder, M. Wood, R. Gurunathan, B. H. Snyder, and *C. Niu*. **Weighted mobility.** *Advanced Materials*, 2001537 (2020)
 0. *C. Niu*, Y. Rao, W. Windl, and M. Ghazisaeidi. **Multi-cell Monte Carlo method for phase prediction.** *npj Computational Materials*, 5 (1): 1--5 (2019)
 0. *C. Niu*, C. R. LaRosa, J. Miao, M. J. Mills, and M. Ghazisaeidi. **Magnetically-driven phase transformation strengthening in high entropy alloys.** *Nature Communications*, 9 (1): 1363 (2018)
 0. M. S. Hooshmand, *C. Niu*, D. R. Trinkle, M. Ghazisaeidi. **First-principles prediction of oxygen diffusivity near the (101-2) twin boundary in titanium.** *Acta Materialia*, 156: 11--19 (2018)
