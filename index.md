@@ -24,3 +24,20 @@ Hello! My name is Changning Niu ([pronunciation](https://translate.google.com/#v
  | *Materials Science and Engineering*, Advisor: [Douglas Irving](http://www.mse.ncsu.edu/profile/dlirving)
  2006--2011 | **B.Sc.**, University of Science and Technology Beijing (USTB), Beijing, China
  | *Materials Physics*, minor in *Information and Computational Science*
+
+# Research
+
+My peer-reviewed publication list is available at [Google Scholar Profile](https://scholar.google.com/citations?user=QZEhJPAAAAAJ&hl=en).
+
+At QuesTek, I lead and contribute to various government/commercial/internal projects. Most of these projects are research-oriented, focusing on different topics in the field of integrated computational materials engineering (ICME) and materials genome. To name a few:
+* CALPHAD in the Cloud
+* Materials Genome and Integrated Computational Materials Engineering Toolkit
+* Mechanistically Enhanced Machine Learning for Materials Design and Process Optimization
+
+During my PhD and postdoc, my research has focused on atomic-level computational studies of materials:
+* Energetics and phase stability of chemically (partially) disordered alloys and oxides
+* Phonon vibrations in crystalline materials
+* Density functional theory (DFT) simulation of alloys with magnetism
+* Defect formation in solid solution alloys
+* Transition state of point defects in crystalline materials using nudged elastic band method
+* Marchov Chain Monte Carlo simulation combined with DFT
