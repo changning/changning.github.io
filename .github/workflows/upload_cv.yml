@@ -12,7 +12,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: CV/Niu_CV.tex
+          root_file: Niu_CV.tex
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -30,6 +30,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: CV/Niu_CV.pdf
+          asset_path: Niu_CV.pdf
           asset_name: Niu_CV.pdf
           asset_content_type: application/pdf
