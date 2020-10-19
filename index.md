@@ -2,10 +2,9 @@
 layout: home
 ---
 
-
-| ![QuesTek](/img/QuesTek.png) | ![OSU](/img/OSU.png) | ![NCSU](/img/NCSU.png) | ![USTB](/img/USTB.png) |
+| ![USTB](/img/USTB.png) | ![NCSU](/img/NCSU.png) | ![OSU](/img/OSU.png) | ![QuesTek](/img/QuesTek.png) |
 |:---:|:---:|:---:|:---:|
-| 2018--Present | 2015--2018 | 2011--2015 | 2006--2011 |
+| 2006--2011 | 2011--2015 | 2015--2018 | 2018--Present |
 
 # Bio
 Hello! My name is Changning Niu ([pronunciation](https://translate.google.com/#view=home&op=translate&sl=en&tl=zh-CN&text=Chang-ning%20Niu)). I am a Senior Materials Design Engineer at [QuesTek Innovations LLC](https://www.questek.com/), a small business focused on computational materials design, located in Northern Chicagoland. You can also find me on [LinkedIn](https://www.linkedin.com/in/changning).
